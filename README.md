@@ -1,17 +1,22 @@
 # Morrowind AudioBook
-## by silly-Ursus
+## A first attempt
 
-*Version 1.0*
+**Made by silly-Ursus**
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/certified-steve-bruhle.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.png)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/kinda-sfw.png)](https://forthebadge.com)
 
 
 _Please excuse the "first-person" commentary on this._
 
-This is my first attempt at a mod in Morrowind. It should include an AudioBook player menu and audio files to go along with specific books. I won't be using any AI, but will instead rely on VAs (myself with book availability iterated upon) and native text-to-speech. For context, I'm developing on Windows.
+This is my first attempt at a mod in Morrowind.
+
+It should:
+- Include an AudioBook player menu and audio files to go along with specific books.
+- Not use any AI
+- Include audio files relying on VAs (myself with book availability iterated upon)
+- Use native text-to-speech. For context, I'm developing on Windows.
 
 ### NICE-TO-HAVES:
 
@@ -28,15 +33,15 @@ v0.0.0 - Alpha - Initial release (in progress)
 
 ### INSTALLATION:
 
-- Extract all files to the Data Files directory. (See the [OpenMW installation guide here.](https://openmw.readthedocs.io/en/stable/reference/modding/mod-install.html))
+- Extract audio files to the Data Files directory. (See the [OpenMW installation guide here.](https://openmw.readthedocs.io/en/stable/reference/modding/mod-install.html))
+- Extract OpenMW resources into the OpenMW resources folder... Maybe
 - Enjoy.
 
-
 ###  PLAYING THIS PLUGIN:
-- Just visit any place on Bitter Coast Region.
+- Open a book, press play, use the media player UI.
 
 ### KNOWN ISSUES, BUGS OR CONFLICTS:
-- This is in progress, bugs will be logged her
+- This is in progress, bugs will be logged along the way per release
 
 ### Contact
 - Discord: m.o.m.o.
