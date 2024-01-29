@@ -16,35 +16,7 @@ This is my first attempt at a mod in Morrowind. It should include an AudioBook p
 
 ==============================================
 NICE-TO-HAVES:
-==============================================
-
-- A starter "quest" or NPC to enable the AudioBook reader.
-- A questline for the NPC. (I have a vague story idea.)
-
-
-==============================================
-REQUIREMENTS:
-==============================================
-
-- Morrowind only
-
-===============================================
-INSTALLATION:
-===============================================
-
-- Extract all files to the Data Files directory. (See the [OpenMW installation guide here.](https://openmw.readthedocs.io/en/stable/reference/modding/mod-install.html))
-- Enjoy.
-
-===============================================
-PLAYING THIS PLUGIN:
-===============================================
-  Just visit any place on Bitter Coast Region.
-
-===============================================
-KNOWN ISSUES, BUGS OR CONFLICTS:
-===============================================
-
-- This is in progress, bugs will be logged here as they come up.
+====e as they come up.
 
 ===============================================
 VERSION HISTORY
@@ -61,5 +33,31 @@ USAGE:
 
 Contact:
 ==============================================
-  Discord: m.o.m.o.
+  Discord: m.o.m.o. starter "quest" or NPC to enable the AudioBook reader.
+  - A questline for the NPC. (I have a vague story idea.)
+
+
+  ==============================================
+  REQUIREMENTS:
+  ==============================================
+
+  - Morrowind only
+
+  ===============================================
+  INSTALLATION:
+  ===============================================
+
+  - Extract all files to the Data Files directory. (See the [OpenMW installation guide here.](https://openmw.readthedocs.io/en/stable/reference/modding/mod-install.html))
+  - Enjoy.
+
+  ===============================================
+  PLAYING THIS PLUGIN:
+  ===============================================
+    Just visit any place on Bitter Coast Region.
+
+    ===============================================
+    KNOWN ISSUES, BUGS OR CONFLICTS:
+    ===============================================
+
+    - This is in progress, bugs will be logged her
   Email: (I'll make one for development eventually. silly-Ursus on GH is fine.)
