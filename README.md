@@ -32,9 +32,19 @@ It should:
 
 v0.0.0 - Alpha - Initial release (in progress)
 
+### INSTALLATION:
+
+Add
+```content=my_lua_mod.omwscripts
+data=SCRIPT_LOCATION```
+
+to your `openmw.cfg`
+
+Add `audiobook_mod.omwscripts` to your base Data Files folder
+
 ###  REQUIREMENTS:
 
-  - Morrowind only
+- Morrowind only
 
 ###  PLAYING THIS PLUGIN:
 - Open a book, press play, use the media player UI.
