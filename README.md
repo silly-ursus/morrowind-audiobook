@@ -35,12 +35,14 @@ v0.0.0 - Alpha - Initial release (in progress)
 ### INSTALLATION:
 
 Add
-```content=my_lua_mod.omwscripts
-data=SCRIPT_LOCATION```
+```
+content=my_lua_mod.omwscripts
+data=SCRIPT_LOCATION
+```
 
-to your `openmw.cfg`
+to your openmw.cfg
 
-Add `audiobook_mod.omwscripts` to your base Data Files folder
+Add audiobook_mod.omwscripts to your base Data Files folder
 
 ###  REQUIREMENTS:
 
