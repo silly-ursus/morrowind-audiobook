@@ -13,7 +13,12 @@ _Please excuse the "first-person" commentary on this._
 This is my first attempt at a mod in Morrowind.
 
 It should:
-- Include an AudioBook player menu and audio files to go along with specific books.
+- Include a moveable AudioBook player menu
+- Include audio files to go along with specific books
+- Cycle through pages
+- Potentially log books you've read, or read books only in inventory
+- Have the ability to stop or pause a reading at any given moment
+- Play from an open book (book UI)
 - Not use any AI
 - Include audio files relying on VAs (myself with book availability iterated upon)
 - Use native text-to-speech. For context, I'm developing on Windows.
@@ -30,12 +35,6 @@ v0.0.0 - Alpha - Initial release (in progress)
 ###  REQUIREMENTS:
 
   - Morrowind only
-
-### INSTALLATION:
-
-- Extract audio files to the Data Files directory. (See the [OpenMW installation guide here.](https://openmw.readthedocs.io/en/stable/reference/modding/mod-install.html))
-- Extract OpenMW resources into the OpenMW resources folder... Maybe
-- Enjoy.
 
 ###  PLAYING THIS PLUGIN:
 - Open a book, press play, use the media player UI.
