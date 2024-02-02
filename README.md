@@ -1,16 +1,28 @@
 # Morrowind AudioBook
-## A first attempt
+## Read while adventuring
 
-**Made by silly-Ursus**
+**_Made by silly-Ursus_**
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.png)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/kinda-sfw.png)](https://forthebadge.com)
 
+### TOC
+- [Installation](#get-started)
+- [Requirements](#requirements)
+- [How to use](#how-to-use)
+- [Known issues, bugs, conflicts](#bugs)
+- [Contact](#contact)
+- [Nice-to-haves](#nice-to-haves)
+- [Version History](#version-history)
 
-_Please excuse the "first-person" commentary on this._
+_Please excuse any "first-person" commentary on this for now. It'll be updated for actual README cleanliness later._
 
-This is my first attempt at a mod in Morrowind.
+Initially, the concept behind this mod was to create an AudioBook media player in response to the accessibility issue of reading and retaining information whilst playing the game. Additionally, there are clean TTS (text-to-speech) mods for MWSE and OpenMW could use its own variation on that.
+
+While there are also AI mods available, the aim here is to have an _optional_ AudioBook-style reading, using real voices from real VAs.
+
+To make the mod lore or RP-friendly, an NPC will be added as a modular update.
 
 It should:
 - Include a moveable AudioBook player menu
@@ -23,37 +35,34 @@ It should:
 - Include audio files relying on VAs (myself with book availability iterated upon)
 - Use native text-to-speech. For context, I'm developing on Windows.
 
-### NICE-TO-HAVES:
+#### Get started:
 
-- A starter "quest" or NPC to enable the AudioBook reader.
-- A questline for the NPC. (I have a vague story idea.)
-
-### VERSION HISTORY
-
-v0.0.0 - Alpha - Initial release (in progress)
-
-### INSTALLATION:
-
-Add
+Add the following to your `openmw.cfg`
 ```
 content=my_lua_mod.omwscripts
 data=SCRIPT_LOCATION
 ```
 
-to your openmw.cfg
+Add `audiobook_mod.omwscripts` to `/steamapps/common/Morrowind/Data Files`
 
-Add audiobook_mod.omwscripts to your base Data Files folder
+####  Requirements:
+[OpenMW](https://openmw.org/downloads/) - this mod has not been built for or tested on MWSE or the base game.
 
-###  REQUIREMENTS:
+####  How to use:
+Open a book, press play, use the media player UI.
 
-- Morrowind only
+#### Bugs:
+This is in progress, known issues, bugs, and conflicts will be logged along the way per release.
 
-###  PLAYING THIS PLUGIN:
-- Open a book, press play, use the media player UI.
-
-### KNOWN ISSUES, BUGS OR CONFLICTS:
-- This is in progress, bugs will be logged along the way per release
-
-### Contact
+#### Contact
 - Discord: m.o.m.o.
 - Email: (I'll make one for development eventually. silly-Ursus on GH is fine.)
+
+#### Nice-to-haves:
+
+- A starter "quest" or NPC to enable the AudioBook reader.
+- A questline for the NPC. (I have a vague story idea.)
+
+#### Version history
+
+v0.0.0 - Alpha - Initial release (in progress)
