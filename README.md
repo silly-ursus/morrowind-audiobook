@@ -13,7 +13,7 @@ Read while adventuring. **_A mod by silly-Ursus._**
 - [Known issues, bugs, conflicts](#bugs)
 - [Contact](#contact)
 - [Nice-to-haves](#nice-to-haves)
-- [Version History](#version-history)
+- [Release notes](#release-notes)
 
 _Please excuse any "first-person" commentary on this for now. It'll be updated for actual README cleanliness later._
 
@@ -30,11 +30,10 @@ It should:
 - Potentially log books you've read, or read books only in inventory
 - Have the ability to stop or pause a reading at any given moment
 - Play from an open book (book UI)
-- Not use any AI
 - Include audio files relying on VAs (myself with book availability iterated upon)
 - Use native text-to-speech. For context, I'm developing on Windows.
 
-### Get started:
+### Get started
 
 Add the following to your `openmw.cfg`
 ```
@@ -46,10 +45,10 @@ Add `audiobook_mod.omwscripts` to `/steamapps/common/Morrowind/Data Files`
 
 <div dir="rtl"><a href="#toc">Return to top⬆️</a></div>
 
-####  Requirements:
+####  Requirements
 [OpenMW](https://openmw.org/downloads/) - this mod has not been built for or tested on MWSE or the base game.
 
-####  How to use:
+####  How to use
 Open a book, press play, use the media player UI.
 
 #### Bugs:
@@ -59,12 +58,12 @@ This is in progress, known issues, bugs, and conflicts will be logged along the 
 - Discord: m.o.m.o.
 - Email: (I'll make one for development eventually. silly-Ursus on GH is fine.)
 
-#### Nice-to-haves:
+#### Nice-to-haves
 
 - A starter "quest" or NPC to enable the AudioBook reader.
 - A questline for the NPC. (I have a vague story idea.)
 
-#### Version history
+#### Release notes
 
 v0.0.0 - Alpha - Initial release (in progress)
 <div dir="rtl"><a href="#toc">Return to top⬆️</a></div>
